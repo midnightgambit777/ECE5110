@@ -1,5 +1,0 @@
-function [result,err] = function_create_m(a,ix)
-   err = 0;
-   result = eye(size(a,1));
-   
-
