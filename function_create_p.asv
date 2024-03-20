@@ -1,3 +1,0 @@
-function [p] = function_create_p(n,i,j)
-  p = eye(n)
-  r1 = p(i,
